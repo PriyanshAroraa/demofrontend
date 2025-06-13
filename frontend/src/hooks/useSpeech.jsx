@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useEffect, useState } from "react"
 
-const backendUrl = "http://localhost:3000" // Update this to your backend URL if needed
+const backendUrl = "https://demo-backend-delta.vercel.app/" // Update this to your backend URL if needed
 
 const SpeechContext = createContext()
 
